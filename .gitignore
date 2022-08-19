@@ -1,0 +1,6 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+#files that u dont want to send to git
